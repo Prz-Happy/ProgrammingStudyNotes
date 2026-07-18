@@ -1,2 +1,8 @@
-# -
-CS study notes — C++, Rust, AI full-stack, computer systems and others
+# 编程学习助手
+
+一个面向自学者的编程学习助手仓库，用于系统整理与实践以下方向：
+
+- C++ 与 Rust
+- AI 全栈开发
+- 计算机系统基础
+- 其他编程与工程实践主题
